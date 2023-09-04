@@ -31,7 +31,16 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## TODO
+## THis is a combination of the following tutorials
+
+- <https://www.youtube.com/watch?v=wm5gMKuwSYk> Javascipt Mastery
+- <https://www.udemy.com/course/nextjs-by-example/learn/lecture/37952814?start=75#overview> Udemy - Mirko Nasato
+
+### TODO
 
 - [ ] npx create-next-app@latest ./ (creates the app within the current repository)
-- [ ] 
+- [ ] when use 'use client' in the browser, it will use the client side rendering
+- [ ] Routing / nested routing /dynamic routing (slugs)
+- [ ] Nested layouts
+
+## Notes
